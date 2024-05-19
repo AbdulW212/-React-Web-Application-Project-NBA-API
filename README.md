@@ -1,3 +1,5 @@
+This React application, "NBA Rebound Kings", explores the underappreciated art of rebounding in basketball. The main page highlights its importance and features an image. The "Scorer" section showcases the top 3 rebounders of the 2023 season (Nikola Jokić, Nikola Vučević, and Domantas Sabonis) with clickable links to detailed stats for each player. It also includes images and a blurb about their battle for the rebounding title, where Domantas Sabonis emerged victorious with a dominant average.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
