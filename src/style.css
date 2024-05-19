@@ -1,0 +1,88 @@
+.App{
+  background-color: silver;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: silver;
+  color: black;
+  padding: 15px;
+  font-size: 2em;
+  border: solid rgb(109, 104, 114);
+  border-width: 5px;
+  height: 20%;
+  font-size: 18px;
+}
+
+.nav a {
+  color: black;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  color: red;
+  text-decoration: none;
+}
+
+.appImage1{
+  height: 18vh;
+  background-color: silver;
+  border-width: 5px;
+}
+
+.image1{
+  height: 15vh;
+  width: 70px;
+  
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.scorer{
+  border: solid rgb(109, 104, 114);
+  display: block;
+  color: black;
+  font-size: 20px;
+  
+}
+
+.scorer a{
+  display: block;
+  color: black;
+  
+}
+
+.scorer a:hover{
+  color: red;
+  display: block;    
+}
+
+.stat{
+  border: solid rgb(109, 104, 114);
+  background-color:  silver;
+  border-width: 5px;
+  color: black;
+}
+
+.main{
+  border: solid rgb(109, 104, 114);
+  background-color: silver;
+  border-width: 5px;
+  color: black;
+  font-size: 20px;
+}
+.regSzn{
+  height: 30vh;
+  display: flex;
+  justify-content: space-around;
+}
+
+.rebounds{
+  height: 100vh;
+}
+
+.rebounds1{
+  height: 100vh;
+
+}
